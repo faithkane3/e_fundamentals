@@ -6,19 +6,19 @@
 
 Each person in your group will take a turn asking and answering the following questions. Just like in an interview, a one-word answer is not the goal here. There are also a couple of tasks to complete at the bottom.
 
-1. What is data science, in your own words? Why is data science for you, and what brings you to the field?
+1. What is data science, in your own words? Why is data science for you, and what brings you to the field? (You are starting to craft your introduction or personal elevator pitch for interviews here.)
 
-2. What are some differences between Supervised and Unsupervised machine Learning?
+2. What are some differences between Supervised and Unsupervised Machine Learning?
 
-3. If you wanted to predict whether or not a customer will churn, what is the name of the type of machine learning algorithms you would you use?
+3. If you wanted to predict whether or not a customer will churn, what is the name of the type of machine learning algorithms you would use?
 
-4. How do you rest your brain from looking at a computer screen?
+4. How do you rest your brain and eyes from looking at a computer screen?
 
 5. What do you foresee as the biggest challenge for you in this program? Where do you feel you might be the most comfortable, or what are you most excited about learning in the program?
 
 6. How do you start a project?
 
-7. What are some of the python libraries we will use to analyze and visualize our data in Codeup and beyond?
+7. What are some of the python libraries you will use to analyze and visualize our data in Codeup and beyond?
 
 ## Tasks for Your Group
 
