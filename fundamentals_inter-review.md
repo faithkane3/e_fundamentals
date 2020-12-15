@@ -1,6 +1,6 @@
 # Fundamentals Inter-Review
 
-**Welcome to your first Inter-Review!** Think of this as a review of material we have covered in an interview-style format. The best way to learn a language is to speak it, practice it, and you are learning a new language: data science. You will hear us model speaking data science, using the proper technical terminology, every day, and you will be practicing your new language when speaking to us as well your cohort colleagues. One way to attack "Imposter Syndrome" is to get comfortable hearing yourself speak data science.
+**Welcome to your first Inter-Review!** Think of this as a review of material we have covered in an interview-style format. The best way to learn a language is to speak it, practice it, and you are learning a new language: data science. You will hear us model speaking data science, using the proper technical terminology, every day, and you will be practicing your new language when speaking to us as well as your cohort colleagues. One way to attack "Imposter Syndrome" is to get comfortable hearing yourself speak data science.
 
 ## Review Questions
 
