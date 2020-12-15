@@ -10,10 +10,12 @@ Each person in your group will take a turn asking and answering the following qu
 
 2. What are some differences between Supervised and Unsupervised machine Learning?
 
-3. How do you rest your brain from looking at a computer screen?
+3. If you wanted to predict whether or not a customer will churn, what is the name of the type of machine learning algorithms you would you use?
 
-4. What do you foresee as the biggest challenge for you in this program? Where do you feel you might be the most comfortable, or what are you most excited about learning in the program?
+4. How do you rest your brain from looking at a computer screen?
 
-5. How do you start a project?
+5. What do you foresee as the biggest challenge for you in this program? Where do you feel you might be the most comfortable, or what are you most excited about learning in the program?
 
-6. What are some of the python libraries we will use to analyze and visualize our data in Codeup and beyond?
+6. How do you start a project?
+
+7. What are some of the python libraries we will use to analyze and visualize our data in Codeup and beyond?
