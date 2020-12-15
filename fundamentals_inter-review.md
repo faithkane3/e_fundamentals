@@ -18,7 +18,7 @@ Each person in your group will take a turn asking and answering the following qu
 
 6. How do you start a project?
 
-7. What are some of the python libraries you will use to analyze and visualize our data in Codeup and beyond?
+7. What are some of the python libraries you will use to analyze and visualize your data in Codeup and beyond?
 
 ## Tasks for Your Group
 
